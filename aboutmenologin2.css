@@ -1,0 +1,701 @@
+.mediaViewInfo {
+	--web-view-name: About Me (No Login) – 1;
+	--web-view-id: About_Me_No_Login__1;
+	--web-scale-on-resize: true;
+	--web-center-vertically: true;
+	--web-navigate-on-keypress: true;
+	--web-refresh-for-changes: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: About_Me_No_Login__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.About_Me_No_Login__1_Class {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: About Me (No Login) – 1;
+	--web-view-id: About_Me_No_Login__1;
+	--web-scale-on-resize: true;
+	--web-center-vertically: true;
+	--web-navigate-on-keypress: true;
+	--web-refresh-for-changes: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.Rectangle_16_Class {
+	fill: rgba(241,206,130,1);
+}
+.Rectangle_16 {
+	position: absolute;
+	overflow: visible;
+	width: 1966px;
+	height: 1114px;
+	left: -25px;
+	top: -14px;
+}
+.Group_1_Class {
+	position: absolute;
+	width: 577.8px;
+	height: 577.8px;
+	left: 1058px;
+	top: 333.6px;
+	overflow: visible;
+}
+.Path_8_Class {
+	opacity: 0.13;
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 30px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_8 {
+	mix-blend-mode: soft-light;
+	overflow: visible;
+	position: absolute;
+	width: 306px;
+	height: 306px;
+	left: 135.9px;
+	top: 135.9px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Ellipse_7_Class {
+	opacity: 0.13;
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_7 {
+	mix-blend-mode: soft-light;
+	position: absolute;
+	overflow: visible;
+	width: 159px;
+	height: 159px;
+	left: 208.9px;
+	top: 208.9px;
+}
+.Path_9_Class {
+	opacity: 0.13;
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 30px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_9 {
+	mix-blend-mode: soft-light;
+	overflow: visible;
+	position: absolute;
+	width: 436.306px;
+	height: 436.306px;
+	left: 70.247px;
+	top: 70.247px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_10_Class {
+	opacity: 0.13;
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 30px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_10 {
+	mix-blend-mode: soft-light;
+	overflow: visible;
+	position: absolute;
+	width: 577.8px;
+	height: 577.8px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_1_Class {
+	opacity: 0.81;
+	fill: rgba(231,70,50,1);
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 1399.14px;
+	height: 482.708px;
+	left: 683.525px;
+	top: -26.893px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.logo_Class {
+	filter: drop-shadow(0px 5px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 101px;
+	height: 101px;
+	left: 15px;
+	top: 13px;
+	overflow: visible;
+}
+.Andros_Class {
+	left: 112px;
+	top: 19px;
+	position: absolute;
+	overflow: visible;
+	width: 118px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 38px;
+	color: rgba(133,196,203,1);
+}
+.Web_Class {
+	left: 229px;
+	top: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 95px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 44px;
+	color: rgba(133,196,203,1);
+}
+.Online_Learning_Class {
+	opacity: 0.8;
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 114px;
+	top: 60px;
+	position: absolute;
+	overflow: visible;
+	width: 207px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 27px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.9px;
+	text-decoration: underline;
+	text-transform: lowercase;
+}
+.Home_Class {
+	left: 878px;
+	top: 41px;
+	position: absolute;
+	overflow: visible;
+	width: 79px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: homenologin.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 27px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.9px;
+}
+.About_Me_Class {
+	left: 1058px;
+	top: 41px;
+	position: absolute;
+	overflow: visible;
+	width: 134px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: aboutmenologin.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 27px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.9px;
+}
+.Blog_Class {
+	left: 1293px;
+	top: 41px;
+	position: absolute;
+	overflow: visible;
+	width: 60px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: errornologin.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 27px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.9px;
+}
+.Contact_Class {
+	left: 1454px;
+	top: 41px;
+	position: absolute;
+	overflow: visible;
+	width: 106px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: errornologin.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 27px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.9px;
+}
+.Group_2_Class {
+	position: absolute;
+	width: 577.8px;
+	height: 577.8px;
+	left: 1618.1px;
+	top: 768.1px;
+	overflow: visible;
+}
+.Path_2_Class {
+	opacity: 0.13;
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 30px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_2 {
+	mix-blend-mode: soft-light;
+	overflow: visible;
+	position: absolute;
+	width: 306px;
+	height: 306px;
+	left: 135.9px;
+	top: 135.9px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Ellipse_2_Class {
+	opacity: 0.13;
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2 {
+	mix-blend-mode: soft-light;
+	position: absolute;
+	overflow: visible;
+	width: 159px;
+	height: 159px;
+	left: 208.9px;
+	top: 208.9px;
+}
+.Path_3_Class {
+	opacity: 0.13;
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 30px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_3 {
+	mix-blend-mode: soft-light;
+	overflow: visible;
+	position: absolute;
+	width: 436.306px;
+	height: 436.306px;
+	left: 70.247px;
+	top: 70.247px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_4_Class {
+	opacity: 0.13;
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 30px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_4 {
+	mix-blend-mode: soft-light;
+	overflow: visible;
+	position: absolute;
+	width: 577.8px;
+	height: 577.8px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Group_3_Class {
+	position: absolute;
+	width: 577.8px;
+	height: 577.8px;
+	left: -249.9px;
+	top: -249.9px;
+	overflow: visible;
+}
+.Path_5_Class {
+	opacity: 0.13;
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 30px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_5 {
+	mix-blend-mode: soft-light;
+	overflow: visible;
+	position: absolute;
+	width: 306px;
+	height: 306px;
+	left: 135.9px;
+	top: 135.9px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Ellipse_3_Class {
+	opacity: 0.13;
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_3 {
+	mix-blend-mode: soft-light;
+	position: absolute;
+	overflow: visible;
+	width: 159px;
+	height: 159px;
+	left: 208.9px;
+	top: 208.9px;
+}
+.Path_6_Class {
+	opacity: 0.13;
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 30px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_6 {
+	mix-blend-mode: soft-light;
+	overflow: visible;
+	position: absolute;
+	width: 436.306px;
+	height: 436.306px;
+	left: 70.247px;
+	top: 70.247px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_7_Class {
+	opacity: 0.13;
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 30px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_7 {
+	mix-blend-mode: soft-light;
+	overflow: visible;
+	position: absolute;
+	width: 577.8px;
+	height: 577.8px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Ahmad_Asyhari_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 154px;
+	top: 613px;
+	position: absolute;
+	overflow: visible;
+	width: 276px;
+	white-space: nowrap;
+	line-height: 50px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+	text-transform: capitalize;
+}
+.Mask_Group_3_Class {
+	position: absolute;
+	width: 359px;
+	height: 373px;
+	left: 111px;
+	top: 232px;
+	overflow: visible;
+}
+._Andros__Class {
+	left: 228px;
+	top: 674px;
+	position: absolute;
+	overflow: visible;
+	width: 127px;
+	white-space: nowrap;
+	line-height: 50px;
+	margin-top: -10px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+	text-transform: capitalize;
+}
+.Login_Icon_Class {
+	position: absolute;
+	width: 229px;
+	height: 57px;
+	left: 1636px;
+	top: 29px;
+	overflow: visible;
+}
+.Rectangle_22_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_22 {
+	position: absolute;
+	overflow: visible;
+	width: 229px;
+	height: 57px;
+	left: 0px;
+	top: 0px;
+}
+.Andros_bl_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 37px;
+	top: 8px;
+	position: absolute;
+	overflow: visible;
+	width: 94px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 27px;
+	color: rgba(248,140,153,1);
+	letter-spacing: 0.9px;
+}
+.Mask_Group_4_Class {
+	position: absolute;
+	width: 43px;
+	height: 43px;
+	left: 153px;
+	top: 8px;
+	overflow: visible;
+}
+.Group_7_Class {
+	position: absolute;
+	width: 735px;
+	height: 599px;
+	left: 550px;
+	top: 305px;
+	overflow: visible;
+}
+.Mini_Biodata____Hi_my_name_is__Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 66px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 604px;
+	white-space: nowrap;
+	line-height: 50px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+.Rectangle_18_Class {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 8px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_18 {
+	position: absolute;
+	overflow: visible;
+	width: 735px;
+	height: 489px;
+	left: 0px;
+	top: 110px;
+}
+.Group_6_Class {
+	position: absolute;
+	width: 352px;
+	height: 219px;
+	left: 115px;
+	top: 744px;
+	overflow: visible;
+}
+.Icon_awesome-github_Class {
+	fill: rgba(0,0,0,1);
+}
+.Icon_awesome-github {
+	overflow: visible;
+	position: absolute;
+	width: 34.875px;
+	height: 34.003px;
+	left: 67.142px;
+	top: 71.996px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_awesome-twitter_Class {
+	fill: rgba(0,0,0,1);
+}
+.Icon_awesome-twitter {
+	overflow: visible;
+	position: absolute;
+	width: 36px;
+	height: 29.238px;
+	left: 66.579px;
+	top: 116.939px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_awesome-instagram_Class {
+	fill: rgba(0,0,0,1);
+}
+.Icon_awesome-instagram {
+	overflow: visible;
+	position: absolute;
+	width: 31.518px;
+	height: 31.51px;
+	left: 69px;
+	top: 157.117px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Social_Media___Class {
+	left: 69px;
+	top: 21.5px;
+	position: absolute;
+	overflow: visible;
+	width: 195px;
+	white-space: nowrap;
+	line-height: 42px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 32px;
+	color: rgba(255,255,255,1);
+}
+.ahmadasyhari8_ahmdasyhr__ahmda_Class {
+	left: 113px;
+	top: 64px;
+	position: absolute;
+	overflow: visible;
+	width: 203px;
+	white-space: nowrap;
+	line-height: 42px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 32px;
+	color: rgba(255,255,255,1);
+}
+.Rectangle_19_Class {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 8px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_19 {
+	position: absolute;
+	overflow: visible;
+	width: 352px;
+	height: 219px;
+	left: 0px;
+	top: 0px;
+}
+.Group_10_Class {
+	position: absolute;
+	width: 229px;
+	height: 57px;
+	left: 1636px;
+	top: 29px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: aboutmelogin.html;
+	cursor: pointer;
+}
+.Rectangle_17_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_17 {
+	position: absolute;
+	overflow: visible;
+	width: 229px;
+	height: 57px;
+	left: 0px;
+	top: 0px;
+}
+.Sign_In_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 68px;
+	top: 10px;
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 27px;
+	color: rgba(248,140,153,1);
+	letter-spacing: 0.9px;
+}
